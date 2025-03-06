@@ -73,5 +73,5 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para utilizá-lo 
 
 ---
 
-💡 *Desenvolvido com 💙 por [Seu Nome](https://github.com/seu-usuario).*
+💡 *Desenvolvido com 💙 por [muriloLuix](https://github.com/muriloLuix).*
 
